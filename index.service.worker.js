@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792124587|8944220';
+const CACHE_VERSION = '1792376973|9707092';
 /** @type {string} */
 const CACHE_PREFIX = 'Townfall 2D-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
